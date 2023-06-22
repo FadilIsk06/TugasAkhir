@@ -1,4 +1,4 @@
 Belajar git source control
 
 nama lengkap : <M. Fadil Iskandar>
-saya senang belajar git.
+saya senang belajar git
